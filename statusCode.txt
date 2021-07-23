@@ -1,0 +1,6 @@
+200 = for ok.
+405 = If I don't want to allow any req method- 405 by convention
+500 = for internel server error
+400 = by convention for request problem
+404 = Request not found
+403 = Authentication Failure/ Unauthenticated request
